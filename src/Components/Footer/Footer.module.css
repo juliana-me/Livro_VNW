@@ -1,0 +1,9 @@
+footer {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #005695;
+  color: #fff;
+}/*# sourceMappingURL=Footer.module.css.map */
