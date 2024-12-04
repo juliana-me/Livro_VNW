@@ -1,4 +1,4 @@
-import livro from '../../Assets/livro.png';
+import livro from '../../assets/livro.png';
 import s from './LivrosDoados.module.scss';
 
 export default function LivrosDoados() {

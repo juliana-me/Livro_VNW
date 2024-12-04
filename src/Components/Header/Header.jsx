@@ -2,8 +2,8 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Inicio from '../../Pages/Inicio/Inicio.jsx';
 import LivrosDoados from '../../Pages/LivrosDoados/LivrosDoados.jsx';
 import QueroDoar from '../../Pages/QueroDoar/QueroDoar.jsx';
-import logoLivro from '../../Assets/logoLivro.png';
-import lupa from '../../Assets/lupa.png';
+import logoLivro from '../../assets/logoLivro.png';
+import lupa from '../../assets/lupa.png';
 import s from './Header.module.scss';
 
 

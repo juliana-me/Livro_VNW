@@ -1,9 +1,9 @@
 import s from './Footer.module.scss';
-import Facebook from 'src/Assets/Facebook.PNG';
-  import Instagram from '../Assets/Instagram.png';
-import Twitter from '../Assets/Twitter.png';
-import Youtube from '../Assets/Youtube.png';
-import Linkedin from '../Assets/Linkedin.png';
+import facebook from '../../assets/facebook.png';  
+import Instagram from '../../assets/Instagram.png';
+import Twitter from '../../assets/Twitter.png';
+import Youtube from '../../assets/Youtube.png';
+import Linkedin from '../../assets/Linkedin.png';
 
 export default function Footer() {
   return (
@@ -16,7 +16,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={Facebook} alt="Logo do Facebook" />
+            <img src={facebook} alt="Logo do Facebook" />
           </a>
           <a
             href="https://twitter.com"
